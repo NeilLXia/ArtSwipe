@@ -1,6 +1,6 @@
 # ArtSwipe
 
-ArtSwipe is a mobile app concept that combines the swipe left/right feature of Tinder with the buying and selling of artwork on eBay. The idea behind ArtSwipe is to make the process of buying and selling art more accessible, interactive and engaging for users, especially for art enthusiasts who are looking for a unique and personalized experience.
+ArtSwipe is a mobile app concept that combines the swipe left/right feature of Tinder with the buying and selling of artwork on eBay. The idea behind ArtSwipe is to make the process of buying and selling art more accessible, interactive, and engaging for users, simplifying the process of buying art.
 
 ## Authors
 
